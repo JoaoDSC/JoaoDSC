@@ -27,4 +27,3 @@
 ![SQL](https://img.shields.io/badge/MYSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-
