@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá 👋, Meu nome é João 
 
-<!--
-**JoaoDSC/JoaoDSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Ciência da Computação**  
+🇧🇷 Brasil
 
-Here are some ideas to get you started:
+💻 Atualmente estudando **SQL**, **C** e **Python** para desenvolvimento Back-End/Engenharia de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Interesse em Programação, Banco de Dados e Tecnologia  
+
+🚀 Construindo projetos para evoluir como Desenvolvedor e na área de Dados
+
+
+
+## 🧠 Tecnologias
+
+-   🧩 Estudando Lógica de Programação usando C (pela Faculdade)
+-   ⚡ Começando em Python 
+-   🤖 Estudando Sql
+-   📊 Interesse por Power BI, Excel, Automação, Machine Learning e Análise de Dados
+
+---
+
+## 🛠️ Estudando
+### Atualmente
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/MYSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
